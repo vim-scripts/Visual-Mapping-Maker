@@ -1,0 +1,12 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=239
+
+well ... write something like that :
+
+if(|)
+{
+
+}
+
+Select it in visual mode, type ',t' and it will replace the block by the equivalent mapping (placing the cursor at the place of the underscore)
+
+feedbacks and bug reports would be very nice
